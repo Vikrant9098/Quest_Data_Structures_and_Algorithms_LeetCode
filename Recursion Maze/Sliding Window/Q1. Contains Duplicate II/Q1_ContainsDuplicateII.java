@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         // Map to store the last index of each number
