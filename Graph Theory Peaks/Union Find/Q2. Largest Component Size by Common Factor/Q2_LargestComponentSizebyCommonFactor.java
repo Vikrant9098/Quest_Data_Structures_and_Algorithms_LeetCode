@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+
 class Solution {
 
     // Stores the parent of each node (Disjoint Set / Union-Find)
